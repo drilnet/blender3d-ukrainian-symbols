@@ -1,0 +1,1 @@
+# blender3d-ukrainian-symbols
