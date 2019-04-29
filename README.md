@@ -2,6 +2,8 @@
 
 Лицензия: **Free**.
 
+Cделано в Blender ([https://www.blender.org](https://www.blender.org)).
+
 ![](https://github.com/drilnet/blender3d-ukrainian-symbols/blob/master/St%20-%20FlagGerbUA%20(330x361px).png)
 
 Blend-файл утерян!
