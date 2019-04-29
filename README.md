@@ -6,6 +6,10 @@
 
 Blend-файл утерян!
 
+**Примечание.**
+<br>
+Эта работа прицеплена к: [Blender 3D. Модель мотора (motor).](https://github.com/drilnet/blender3d-motor)
+
 [Украинский Герб в русской Wiki](https://ru.wikipedia.org/wiki/Герб_Украины).
 <br>
 [Украинский Герб в украинской Wiki](https://uk.wikipedia.org/wiki/Герб_України).
