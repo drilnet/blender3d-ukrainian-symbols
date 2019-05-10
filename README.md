@@ -14,6 +14,10 @@
 <br>
 [Украинский Герб в украинской Wiki](https://uk.wikipedia.org/wiki/Герб_України).
 
+[Символика в русской Wiki](https://ru.wikipedia.org/wiki/Символика)
+<br>
+[Символика в украинской Wiki](https://uk.wikipedia.org/wiki/Символіка)
+
 Украина. (C) Демидов С.В.
 
 <hr>
