@@ -23,7 +23,7 @@
 <br>
 [Символика в украинской Wiki](https://uk.wikipedia.org/wiki/Символіка).
 
-Украина. (**C**) Демидов С.В.
+[Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В.
 
 <hr>
 
