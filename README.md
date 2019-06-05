@@ -15,13 +15,12 @@
 <br>
 Эта работа прицеплена к: [Blender 3D. Модель мотора (motor).](https://github.com/drilnet/blender3d-motor)
 
-[Украинский Герб в русской Wiki](https://ru.wikipedia.org/wiki/Герб_Украины).
+Ресурсы:
 <br>
-[Украинский Герб в украинской Wiki](https://uk.wikipedia.org/wiki/Герб_України).
-
-[Символика в русской Wiki](https://ru.wikipedia.org/wiki/Символика).
-<br>
-[Символика в украинской Wiki](https://uk.wikipedia.org/wiki/Символіка).
+* [Украинский Герб в русской Wiki](https://ru.wikipedia.org/wiki/Герб_Украины)
+* [Украинский Герб в украинской Wiki](https://uk.wikipedia.org/wiki/Герб_України)
+* [Символика в русской Wiki](https://ru.wikipedia.org/wiki/Символика)
+* [Символика в украинской Wiki](https://uk.wikipedia.org/wiki/Символіка)
 
 [Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В.
 
