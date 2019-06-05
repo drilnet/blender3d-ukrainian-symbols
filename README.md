@@ -1,5 +1,5 @@
 # Hobby
-[GITHUB](https://github.com) - Моя записная книжка!
+[GITHUB](https://github.com) - Моя записная книжка (заметки, наброски и т.д. и т.п.)!
 
 <hr>
 
