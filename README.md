@@ -69,6 +69,8 @@
 &nbsp;&nbsp;&nbsp;&bull; [Усилитель звука на микросхеме
  TEA2025B](https://github.com/drilnet/electronics/tree/master/AUDIO%20AMPLIFIER%20TEA2025B "Схема, печатная плата, собранная плата")
  <br>
+ &nbsp;&nbsp;&nbsp;&bull; [Делитель напряжения на двух резисторах (формулы, расчёты, калькулятор на HTML + JavaScript)](https://github.com/drilnet/electronics/tree/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator) "Нажмите")
+ <br>
  &nbsp;&nbsp;&nbsp;&bull; [Ремонт компьютерных колонок Genius SP-G06](https://github.com/drilnet/electronics/tree/master/Speakers%20Genius%20SP-G06 "Что было и Что стало")
  
  **Репозиторий:** [Интеллект. Искусственный интеллект](https://github.com/drilnet/Intelligence "Intelligence. Artificial Intelligence")
