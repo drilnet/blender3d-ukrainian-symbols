@@ -19,7 +19,7 @@
 
 * [Украинский Герб в Русской Вики](https://ru.wikipedia.org/wiki/Герб_Украины)
 * [Украинский Герб в Украинской Вики](https://uk.wikipedia.org/wiki/Герб_України)
- 
+ <br>
 * [Символика в Русской Вики](https://ru.wikipedia.org/wiki/Символика)
 * [Символика в Украинской Вики](https://uk.wikipedia.org/wiki/Символіка)
 
