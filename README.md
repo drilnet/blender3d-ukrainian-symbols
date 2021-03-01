@@ -16,7 +16,7 @@
 Эта работа прицеплена к: [Blender 3D. Модель мотора (motor).](https://github.com/drilnet/blender3d-motor)
 
 Информационные ресурсы (Вики):
-<br>
+
 * [Украинский Герб в Русской Вики](https://ru.wikipedia.org/wiki/Герб_Украины)
 * [Украинский Герб в Украинской Вики](https://uk.wikipedia.org/wiki/Герб_України)
  
