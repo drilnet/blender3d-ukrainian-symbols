@@ -17,10 +17,10 @@
 
 Информационные ресурсы (Вики):
 <br>
-* [Украинский Герб в русской Вики](https://ru.wikipedia.org/wiki/Герб_Украины)
-* [Украинский Герб в украинской Вики](https://uk.wikipedia.org/wiki/Герб_України)
-* [Символика в русской Вики](https://ru.wikipedia.org/wiki/Символика)
-* [Символика в украинской Вики](https://uk.wikipedia.org/wiki/Символіка)
+* [Украинский Герб в Русской Вики](https://ru.wikipedia.org/wiki/Герб_Украины)
+* [Украинский Герб в Украинской Вики](https://uk.wikipedia.org/wiki/Герб_України)
+* [Символика в Русской Вики](https://ru.wikipedia.org/wiki/Символика)
+* [Символика в Украинской Вики](https://uk.wikipedia.org/wiki/Символіка)
 
 [Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В.
 
