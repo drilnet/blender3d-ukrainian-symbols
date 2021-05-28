@@ -93,7 +93,7 @@
 <br>
 [Шпаргалка по Markdown](https://github.com/sandino/Markdown-Cheatsheet "(C) Sandino")
 <br>
-[Создаем свой сайт на GitHub](https://www.youtube.com/watch?v=05nLdIVfSRU "Типичный Верстальщик &bull; Анна Блок")
+[Создаем свой сайт на GitHub](https://www.youtube.com/watch?v=05nLdIVfSRU "(C) Анна Блок")
 
 <hr>
 
